@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+}
+header{
+    width: 100vw;
+    height: 80px;
+    background-color: green;
+    margin-bottom: 20px;
+}
+h1{
+    margin-top: 0;
+    display: inline-block;
+}
+
+div.menus, ul, li{
+    display: inline-block;
+  
+}
+div.menus{
+    margin-left: 750px;
+}
+li{
+    margin: 5px;
+}
+
+div.contenedor{
+    width: 1400px;
+    margin: auto;
+
+}
+
+
+div.parrafo1{
+    /* top: 500px; */
+    width: 350px ;
+    height: 170px;
+    background-color: rgba(172, 167, 167, 0.721);
+    display: inline-block;
+    padding: 12px 5px 15px 10px;
+    
+   
+
+}
+div.parrafo2{
+    width: 350px ;
+    height: 170px;
+    background-color: rgba(172, 167, 167, 0.721);
+    display: inline-block;
+    padding: 12px 5px 15px 10px;
+    
+}
+div.parrafo3{
+    width: 350px ;
+    height: 170px;
+    background-color: rgba(172, 167, 167, 0.721);
+    display: inline-block;
+    padding: 12px 5px 15px 10px;
+   
+}
+div{
+    margin-left: 10px;
+
+}
+
+div.contenedor2{
+    width: 1150px;
+    height: 200px;
+    /* background-color: aqua; */
+    margin: auto;
+}
